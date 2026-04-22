@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB26CE3-4A42-4E16-97BC-418511EA44A6}|BasicSyntax.vcxproj|C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEB26CE3-4A42-4E16-97BC-418511EA44A6}|BasicSyntax.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB26CE3-4A42-4E16-97BC-418511EA44A6}|BasicSyntax.vcxproj|C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\intReturner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEB26CE3-4A42-4E16-97BC-418511EA44A6}|BasicSyntax.vcxproj|solutionrelative:intReturner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T20:25:17.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "intReturner.cpp",
+              "DocumentMoniker": "C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\intReturner.cpp",
+              "RelativeDocumentMoniker": "intReturner.cpp",
+              "ToolTip": "C:\\Users\\gokas\\Documents\\GitHub\\CPP-Learning\\BasicSyntax\\intReturner.cpp",
+              "RelativeToolTip": "intReturner.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T20:36:22.128Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
